@@ -2,7 +2,7 @@
   "name": "part1",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Aws-Hashim.github.io/Unicafe",
+  "homepage": "https://aws-hashim.github.io/Unicafe/",
   "type": "module",
   "scripts": {
     "dev": "vite",
